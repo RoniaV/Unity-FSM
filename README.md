@@ -42,9 +42,9 @@ The repository only includes the code for the system and the editor. I have also
 
 The demo uses code from my repositories:
 
-- [Character System](https://github.com/YOUR-USERNAME/Character-System)
-- [Weapon System](https://github.com/YOUR-USERNAME/Weapon-System)
-- [Unity Utils](https://github.com/YOUR-USERNAME/Unity-Utils)
+- [Character System](https://github.com/RoniaV/Character-System)
+- [Weapon System](https://github.com/RoniaV/Weapon-System)
+- [Unity Utils](https://github.com/RoniaV/Unity-Utils)
 
 The following third-party assets are also used:
 
